@@ -1,0 +1,16 @@
+Today i have learnt how to use a terminal and some commands.15/02/2021 12:32:28 WB 
+TERMINAL😎️-is an interface used to navigate through your computer ,folders and files rather than doing it manually.
+
+The following are the commands i have learnt:
+whoami 😊️ : shows you the user.
+ls/dir 😊️ : shows the folders you have.
+pwd  😊️   : shows the current folder.
+cd      : opens a folder.
+mkdir -p : creates the parent folder.
+touch    : creates a file.
+mv    😊️   :renames a file.
+           for example;mv Frits.txt Vegetables.txt
+cat  😊️    :opens a file.
+           e.g cat fruits.txt          
+edition
+
